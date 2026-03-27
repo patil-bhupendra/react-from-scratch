@@ -1,4 +1,4 @@
-# React Core Concepts
+# ⚛️ React Core Concepts
 
 A structured repository built to revisit and reinforce React fundamentals from scratch, with hands-on examples of core concepts used in real-world applications.
 
