@@ -90,16 +90,16 @@ This repository helps showcase:
 17-useEffect
 ```
 
-## Note
+## 📝 Note
 This is a concept-focused repository created for structured React revision and fundamentals reinforcement, not a production-level application.
 
-## Related Production Projects
+## 🚀 Related Production Projects
 - MERN Bookstore Web Application
 - MERN Stock Trading Platform
 - Wanderlust Travel Platform
 - Netflix Frontend Clone
 
-## Author
+## 👨‍💻 Author
 Bhupendra Patil  
 Full-Stack MERN Developer  
-GitHub: https://github.com/patil-bhupendra
+- GitHub: [patil-bhupendra](https://github.com/patil-bhupendra)
