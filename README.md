@@ -88,6 +88,7 @@ This repository helps showcase:
 15-localStorage
 16-api-calling
 17-useEffect
+```
 
 ## Note
 This is a concept-focused repository created for structured React revision and fundamentals reinforcement, not a production-level application.
