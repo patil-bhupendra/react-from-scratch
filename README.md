@@ -42,6 +42,7 @@ This repository helps showcase:
 - Cards Project
 - UI Project
 - Notes App
+- Gallery Project
 
 ### State Management & Forms
 - `useState` Hook
@@ -57,6 +58,17 @@ This repository helps showcase:
 - `useEffect` Hook
 
 ---
+
+### Routing in React
+- React Router DOM Basics
+- Advanced Routing
+- Dynamic Routes
+- Nested Routes
+- Route-Based Navigation
+---
+### React State Sharing
+- Context API
+- Global State Without Prop Drilling
 
 ## 🛠️ Tech Stack
 
@@ -105,6 +117,6 @@ It is intended to strengthen React fundamentals through practical examples and m
 - Netflix Frontend Clone
 
 ## 👨‍💻 Author
-Bhupendra Patil  
+**Bhupendra Patil**
 Full-Stack MERN Developer  
 - GitHub: [patil-bhupendra](https://github.com/patil-bhupendra)
