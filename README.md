@@ -88,6 +88,10 @@ This repository helps showcase:
 15-localStorage
 16-api-calling
 17-useEffect
+18-gallery-project
+19-react-router-dom
+20-routing-advanced
+21-context-api
 ```
 
 ## 📝 Note
