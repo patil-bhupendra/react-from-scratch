@@ -95,7 +95,8 @@ This repository helps showcase:
 ```
 
 ## 📝 Note
-This is a concept-focused repository created for structured React revision and fundamentals reinforcement, not a production-level application.
+This is a concept-focused repository created for structured React revision and fundamentals reinforcement.
+It is intended to strengthen React fundamentals through practical examples and mini-projects before moving into larger production-level applications.
 
 ## 🚀 Related Production Projects
 - MERN Bookstore Web Application
